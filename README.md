@@ -1,1 +1,1 @@
-# lex fridman podcas analysis
+# lex fridman podcast analysis
